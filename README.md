@@ -23,7 +23,7 @@ Below is an example molecule from the dataset:
 </p>
 
 <p align="center">
-  <img src="im_1.png" alt="Example molecule from QM9 dataset" width="250">
+  <img src="im_1.png" alt="Example molecule from QM9 dataset" width="500">
 </p>
 
 <hr>
