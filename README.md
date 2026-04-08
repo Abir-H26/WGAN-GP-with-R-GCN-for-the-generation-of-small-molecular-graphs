@@ -1,0 +1,1 @@
+# WGAN-GP-with-R-GCN-for-the-generation-of-small-molecular-graphs
